@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hp0eg9.koi888win.online/sitemap.xml
